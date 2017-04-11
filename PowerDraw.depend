@@ -1,0 +1,663 @@
+# depslib dependency file v1.0
+1455404171 source:c:\users\piotrek\desktop\piotrek\powerdraw\powerdraw\files\opengl\inicjalizacja.cpp
+	<GL/freeglut.h>
+	<string>
+	"inicjalizacja.hpp"
+	"ekran/ekran.hpp"
+	"../mouse and keyboard/keyboard/keyboard.hpp"
+	"../debug/debug.hpp"
+
+1455548785 source:c:\users\piotrek\desktop\piotrek\powerdraw\powerdraw\files\main\main.cpp
+	"main.hpp"
+
+1455390461 c:\users\piotrek\desktop\piotrek\powerdraw\powerdraw\files\main\main.hpp
+	"../opengl/inicjalizacja.hpp"
+	"../all-in-one/all-in-one.hpp"
+	"../opencv/main/main.hpp"
+
+1455377562 c:\users\piotrek\desktop\piotrek\powerdraw\powerdraw\files\all-in-one\all-in-one.hpp
+	<iostream>
+	<GL/freeglut.h>
+
+1455364997 c:\mingw\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1455364997 c:\mingw\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1301111162 c:\mingw\include\windows.h
+	<winresrc.h>
+	<stdarg.h>
+	<windef.h>
+	<wincon.h>
+	<winbase.h>
+	<wingdi.h>
+	<winuser.h>
+	<winnls.h>
+	<winver.h>
+	<winnetwk.h>
+	<winreg.h>
+	<winsvc.h>
+	<cderr.h>
+	<dde.h>
+	<ddeml.h>
+	<dlgs.h>
+	<imm.h>
+	<lzexpand.h>
+	<mmsystem.h>
+	<nb30.h>
+	<rpc.h>
+	<shellapi.h>
+	<winperf.h>
+	<commdlg.h>
+	<winspool.h>
+	<winsock2.h>
+	<winsock.h>
+	<ole2.h>
+
+1301111163 c:\mingw\include\winresrc.h
+	<winuser.h>
+	<winnt.h>
+	<winver.h>
+	<dde.h>
+	<dlgs.h>
+	<commctrl.h>
+
+1301111164 c:\mingw\include\winuser.h
+
+1301111163 c:\mingw\include\winnt.h
+	<winerror.h>
+	<string.h>
+	<basetsd.h>
+	<pshpack4.h>
+	<poppack.h>
+
+1301111162 c:\mingw\include\winerror.h
+
+1433764774 c:\mingw\include\string.h
+	<_mingw.h>
+	<stddef.h>
+
+1433764774 c:\mingw\include\_mingw.h
+
+1301111149 c:\mingw\include\basetsd.h
+
+1301111157 c:\mingw\include\pshpack4.h
+
+1301111157 c:\mingw\include\poppack.h
+
+1301111164 c:\mingw\include\winver.h
+
+1301111149 c:\mingw\include\dde.h
+
+1301111150 c:\mingw\include\dlgs.h
+
+1301111149 c:\mingw\include\commctrl.h
+	<prsht.h>
+
+1301111157 c:\mingw\include\prsht.h
+
+1301111162 c:\mingw\include\windef.h
+	<winnt.h>
+
+1301111162 c:\mingw\include\wincon.h
+
+1301111161 c:\mingw\include\winbase.h
+
+1301111162 c:\mingw\include\wingdi.h
+
+1301111163 c:\mingw\include\winnls.h
+
+1301111163 c:\mingw\include\winnetwk.h
+
+1301111163 c:\mingw\include\winreg.h
+
+1301111164 c:\mingw\include\winsvc.h
+
+1301111149 c:\mingw\include\cderr.h
+
+1301111149 c:\mingw\include\ddeml.h
+
+1301111151 c:\mingw\include\imm.h
+
+1301111154 c:\mingw\include\lzexpand.h
+
+1301111154 c:\mingw\include\mmsystem.h
+
+1301111155 c:\mingw\include\nb30.h
+
+1301111158 c:\mingw\include\rpc.h
+	<windows.h>
+	<rpcdce.h>
+	<rpcnsi.h>
+	<rpcnterr.h>
+	<winerror.h>
+	<excpt.h>
+
+1301111158 c:\mingw\include\rpcdce.h
+	<basetyps.h>
+	<rpcdcep.h>
+
+1301111149 c:\mingw\include\basetyps.h
+
+1301111159 c:\mingw\include\rpcdcep.h
+
+1301111159 c:\mingw\include\rpcnsi.h
+
+1301111159 c:\mingw\include\rpcnterr.h
+
+1433764774 c:\mingw\include\excpt.h
+	<_mingw.h>
+	<windef.h>
+
+1301111160 c:\mingw\include\shellapi.h
+	<pshpack2.h>
+	<poppack.h>
+
+1301111157 c:\mingw\include\pshpack2.h
+
+1301111163 c:\mingw\include\winperf.h
+
+1301111149 c:\mingw\include\commdlg.h
+	<unknwn.h>
+	<prsht.h>
+
+1301111161 c:\mingw\include\unknwn.h
+	<windows.h>
+	<objfwd.h>
+	<wtypes.h>
+
+1301111156 c:\mingw\include\objfwd.h
+	<basetyps.h>
+
+1301111164 c:\mingw\include\wtypes.h
+	<rpc.h>
+	<rpcndr.h>
+
+1301111159 c:\mingw\include\rpcndr.h
+	<rpcnsip.h>
+	<objfwd.h>
+
+1301111159 c:\mingw\include\rpcnsip.h
+
+1301111163 c:\mingw\include\winspool.h
+
+1301111163 c:\mingw\include\winsock2.h
+	<windows.h>
+
+1301111163 c:\mingw\include\winsock.h
+	<windows.h>
+	<mswsock.h>
+
+1301111155 c:\mingw\include\mswsock.h
+
+1301111156 c:\mingw\include\ole2.h
+	<winerror.h>
+	<objbase.h>
+	<olectlid.h>
+	<oleauto.h>
+	<oleidl.h>
+
+1301111155 c:\mingw\include\objbase.h
+	<rpc.h>
+	<rpcndr.h>
+	<stdlib.h>
+	<basetyps.h>
+	<wtypes.h>
+	<unknwn.h>
+	<objidl.h>
+	<cguid.h>
+
+1433764774 c:\mingw\include\stdlib.h
+	<_mingw.h>
+	<stddef.h>
+
+1301111156 c:\mingw\include\objidl.h
+	<objfwd.h>
+
+1301111149 c:\mingw\include\cguid.h
+
+1301111156 c:\mingw\include\olectlid.h
+
+1301111156 c:\mingw\include\oleauto.h
+	<oaidl.h>
+
+1301111155 c:\mingw\include\oaidl.h
+	<windows.h>
+	<ole2.h>
+
+1301111156 c:\mingw\include\oleidl.h
+	<objfwd.h>
+
+1301111164 c:\mingw\include\gl\gl.h
+
+1301111165 c:\mingw\include\gl\glu.h
+	<stddef.h>
+	<GL/gl.h>
+
+1455364997 c:\mingw\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1455377276 c:\users\piotrek\desktop\piotrek\powerdraw\powerdraw\files\opengl\inicjalizacja.hpp
+
+1455580612 source:c:\users\piotrek\desktop\piotrek\powerdraw\powerdraw\files\opengl\ekran\ekran.cpp
+	"ekran.hpp"
+	<GL/freeglut.h>
+	"../../opencv/main/main.hpp"
+	"../text/tekst.hpp"
+	"../../opencv/biblioteki.hpp"
+	"../../opencv/point/point.hpp"
+	"../rysowanie/drawing.hpp"
+	<string>
+	<time.h>
+	<vector>
+
+1455377785 c:\users\piotrek\desktop\piotrek\powerdraw\powerdraw\files\opengl\ekran\ekran.hpp
+
+1455630903 source:c:\users\piotrek\desktop\piotrek\powerdraw\powerdraw\files\opencv\main\main.cpp
+	<string>
+	<iostream>
+	"main.hpp"
+	"../biblioteki.hpp"
+	"../modifier/modyfikator.hpp"
+	"../point/point.hpp"
+
+1455630464 c:\users\piotrek\desktop\piotrek\powerdraw\powerdraw\files\opencv\main\main.hpp
+	"opencv2/highgui/highgui.hpp"
+
+1449835036 c:\mingw\include\opencv2\core\core.hpp
+	"opencv2/core.hpp"
+
+1450444603 c:\mingw\include\opencv2\core.hpp
+	"opencv2/core/cvdef.h"
+	"opencv2/core/version.hpp"
+	"opencv2/core/base.hpp"
+	"opencv2/core/cvstd.hpp"
+	"opencv2/core/traits.hpp"
+	"opencv2/core/matx.hpp"
+	"opencv2/core/types.hpp"
+	"opencv2/core/mat.hpp"
+	"opencv2/core/persistence.hpp"
+	"opencv2/opencv.hpp"
+	"opencv2/xfeatures2d.hpp"
+	"opencv2/core/operations.hpp"
+	"opencv2/core/cvstd.inl.hpp"
+	"opencv2/core/utility.hpp"
+	"opencv2/core/optim.hpp"
+
+1450444603 c:\mingw\include\opencv2\core\cvdef.h
+	<limits.h>
+	"opencv2/core/hal/interface.h"
+	<emmintrin.h>
+	<pmmintrin.h>
+	<tmmintrin.h>
+	<smmintrin.h>
+	<nmmintrin.h>
+	<nmmintrin.h>
+	<popcntintrin.h>
+	<immintrin.h>
+	<immintrin.h>
+	<Intrin.h>
+	"arm_neon.h"
+	<arm_neon.h>
+	<intrin.h>
+
+1433764774 c:\mingw\include\limits.h
+	<_mingw.h>
+
+1450444603 c:\mingw\include\opencv2\core\hal\interface.h
+	<cstddef>
+	<stddef.h>
+	<cstdint>
+	<stdint.h>
+
+1433764774 c:\mingw\include\stdint.h
+	<stddef.h>
+
+1450444603 c:\mingw\include\opencv2\core\version.hpp
+
+1450444603 c:\mingw\include\opencv2\core\base.hpp
+	<climits>
+	<algorithm>
+	"opencv2/core/cvdef.h"
+	"opencv2/core/cvstd.hpp"
+	"opencv2/core/neon_utils.hpp"
+
+1450444603 c:\mingw\include\opencv2\core\cvstd.hpp
+	"opencv2/core/cvdef.h"
+	<cstddef>
+	<cstring>
+	<cctype>
+	<string>
+	<algorithm>
+	<utility>
+	<cstdlib>
+	<cmath>
+	"opencv2/core/ptr.inl.hpp"
+
+1450444603 c:\mingw\include\opencv2\core\ptr.inl.hpp
+	<algorithm>
+
+1450444603 c:\mingw\include\opencv2\core\neon_utils.hpp
+	"opencv2/core/cvdef.h"
+
+1450444603 c:\mingw\include\opencv2\core\traits.hpp
+	"opencv2/core/cvdef.h"
+
+1450444603 c:\mingw\include\opencv2\core\matx.hpp
+	"opencv2/core/cvdef.h"
+	"opencv2/core/base.hpp"
+	"opencv2/core/traits.hpp"
+	"opencv2/core/saturate.hpp"
+
+1450444603 c:\mingw\include\opencv2\core\saturate.hpp
+	"opencv2/core/cvdef.h"
+	"opencv2/core/fast_math.hpp"
+
+1450444603 c:\mingw\include\opencv2\core\fast_math.hpp
+	"opencv2/core/cvdef.h"
+	<fastmath.h>
+	<cmath>
+	<math.h>
+	"tegra_round.hpp"
+
+1433764774 c:\mingw\include\math.h
+	<_mingw.h>
+
+1450444603 c:\mingw\include\opencv2\core\types.hpp
+	<climits>
+	<cfloat>
+	<vector>
+	"opencv2/core/cvdef.h"
+	"opencv2/core/cvstd.hpp"
+	"opencv2/core/matx.hpp"
+
+1450444603 c:\mingw\include\opencv2\core\mat.hpp
+	"opencv2/core/matx.hpp"
+	"opencv2/core/types.hpp"
+	"opencv2/core/bufferpool.hpp"
+	"opencv2/core/mat.inl.hpp"
+
+1450444603 c:\mingw\include\opencv2\core\bufferpool.hpp
+
+1450444603 c:\mingw\include\opencv2\core\mat.inl.hpp
+
+1450444603 c:\mingw\include\opencv2\core\persistence.hpp
+	"opencv2/core/types.hpp"
+	"opencv2/core/mat.hpp"
+	"opencv2/opencv.hpp"
+	<time.h>
+
+1449835036 c:\mingw\include\opencv2\opencv.hpp
+	"opencv2/core.hpp"
+	"opencv2/imgproc.hpp"
+	"opencv2/photo.hpp"
+	"opencv2/video.hpp"
+	"opencv2/features2d.hpp"
+	"opencv2/objdetect.hpp"
+	"opencv2/calib3d.hpp"
+	"opencv2/imgcodecs.hpp"
+	"opencv2/videoio.hpp"
+	"opencv2/highgui.hpp"
+	"opencv2/ml.hpp"
+
+1450444604 c:\mingw\include\opencv2\imgproc.hpp
+	"opencv2/core.hpp"
+	<opencv2/core.hpp>
+	<opencv2/imgproc.hpp>
+	<opencv2/imgcodecs.hpp>
+	<opencv2/highgui.hpp>
+	<iostream>
+	<opencv2/imgproc.hpp>
+	<opencv2/highgui.hpp>
+	<opencv2/imgproc.hpp>
+	<opencv2/highgui.hpp>
+	<math.h>
+	<opencv2/imgproc.hpp>
+	<opencv2/highgui.hpp>
+	"opencv2/imgproc.hpp"
+	"opencv2/highgui.hpp"
+	"opencv2/imgproc/imgproc_c.h"
+
+1450444604 c:\mingw\include\opencv2\imgcodecs.hpp
+	"opencv2/core.hpp"
+	<opencv2/opencv.hpp>
+
+1450444604 c:\mingw\include\opencv2\highgui.hpp
+	"opencv2/core.hpp"
+	"opencv2/imgcodecs.hpp"
+	"opencv2/videoio.hpp"
+	"opencv2/highgui/highgui_c.h"
+
+1450444604 c:\mingw\include\opencv2\videoio.hpp
+	"opencv2/core.hpp"
+	"opencv2/opencv.hpp"
+
+1450444604 c:\mingw\include\opencv2\highgui\highgui_c.h
+	"opencv2/core/core_c.h"
+	"opencv2/imgproc/imgproc_c.h"
+	"opencv2/imgcodecs/imgcodecs_c.h"
+	"opencv2/videoio/videoio_c.h"
+
+1450444603 c:\mingw\include\opencv2\core\core_c.h
+	"opencv2/core/types_c.h"
+	"cxcore.h"
+	"cxcore.h"
+	"opencv2/core/utility.hpp"
+
+1450444603 c:\mingw\include\opencv2\core\types_c.h
+	<ipl.h>
+	<ipl/ipl.h>
+	"opencv2/core/cvdef.h"
+	<assert.h>
+	<stdlib.h>
+	<string.h>
+	<float.h>
+	"opencv2/core.hpp"
+
+1433764774 c:\mingw\include\assert.h
+	<_mingw.h>
+
+1433764774 c:\mingw\include\float.h
+	<_mingw.h>
+
+1450444603 c:\mingw\include\opencv2\core\utility.hpp
+	"opencv2/core.hpp"
+	"opencv2/core/core_c.h"
+
+1450444604 c:\mingw\include\opencv2\imgproc\imgproc_c.h
+	"opencv2/imgproc/types_c.h"
+
+1450444604 c:\mingw\include\opencv2\imgproc\types_c.h
+	"opencv2/core/core_c.h"
+
+1450444604 c:\mingw\include\opencv2\imgcodecs\imgcodecs_c.h
+	"opencv2/core/core_c.h"
+
+1450444604 c:\mingw\include\opencv2\videoio\videoio_c.h
+	"opencv2/core/core_c.h"
+
+1450444604 c:\mingw\include\opencv2\photo.hpp
+	"opencv2/core.hpp"
+	"opencv2/imgproc.hpp"
+	"opencv2/photo/photo_c.h"
+
+1450444604 c:\mingw\include\opencv2\photo\photo_c.h
+	"opencv2/core/core_c.h"
+
+1450444604 c:\mingw\include\opencv2\video.hpp
+	"opencv2/video/tracking.hpp"
+	"opencv2/video/background_segm.hpp"
+	"opencv2/video/tracking_c.h"
+
+1450444604 c:\mingw\include\opencv2\video\tracking.hpp
+	"opencv2/core.hpp"
+	"opencv2/imgproc.hpp"
+
+1450444604 c:\mingw\include\opencv2\video\background_segm.hpp
+	"opencv2/core.hpp"
+
+1450444604 c:\mingw\include\opencv2\video\tracking_c.h
+	"opencv2/imgproc/types_c.h"
+
+1450444604 c:\mingw\include\opencv2\features2d.hpp
+	"opencv2/core.hpp"
+	"opencv2/flann/miniflann.hpp"
+
+1450444604 c:\mingw\include\opencv2\flann\miniflann.hpp
+	"opencv2/core.hpp"
+	"opencv2/flann/defines.h"
+
+1449835037 c:\mingw\include\opencv2\flann\defines.h
+	"config.h"
+
+1449835037 c:\mingw\include\opencv2\flann\config.h
+
+1450444604 c:\mingw\include\opencv2\objdetect.hpp
+	"opencv2/core.hpp"
+	"opencv2/objdetect/detection_based_tracker.hpp"
+	"opencv2/objdetect/objdetect_c.h"
+
+1450444604 c:\mingw\include\opencv2\objdetect\detection_based_tracker.hpp
+	<vector>
+
+1450444604 c:\mingw\include\opencv2\objdetect\objdetect_c.h
+	"opencv2/core/core_c.h"
+	<deque>
+	<vector>
+
+1450444603 c:\mingw\include\opencv2\calib3d.hpp
+	"opencv2/core.hpp"
+	"opencv2/features2d.hpp"
+	"opencv2/core/affine.hpp"
+	"opencv2/calib3d/calib3d_c.h"
+
+1450444603 c:\mingw\include\opencv2\core\affine.hpp
+	<opencv2/core.hpp>
+
+1450444603 c:\mingw\include\opencv2\calib3d\calib3d_c.h
+	"opencv2/core/core_c.h"
+
+1450444604 c:\mingw\include\opencv2\ml.hpp
+	"opencv2/core.hpp"
+	<float.h>
+	<map>
+	<iostream>
+
+1433764774 c:\mingw\include\time.h
+	<_mingw.h>
+	<parts/time.h>
+	<stddef.h>
+
+1433764774 c:\mingw\include\parts\time.h
+
+1450444603 c:\mingw\include\opencv2\core\operations.hpp
+	<cstdio>
+
+1450444603 c:\mingw\include\opencv2\core\cvstd.inl.hpp
+	<complex>
+	<ostream>
+
+1450444603 c:\mingw\include\opencv2\core\optim.hpp
+	"opencv2/core.hpp"
+
+1449835037 c:\mingw\include\opencv2\imgproc\imgproc.hpp
+	"opencv2/imgproc.hpp"
+
+1449835037 c:\mingw\include\opencv2\photo\photo.hpp
+	"opencv2/photo.hpp"
+
+1449835037 c:\mingw\include\opencv2\video\video.hpp
+	"opencv2/video.hpp"
+
+1449835037 c:\mingw\include\opencv2\features2d\features2d.hpp
+	"opencv2/features2d.hpp"
+
+1449835037 c:\mingw\include\opencv2\objdetect\objdetect.hpp
+	"opencv2/objdetect.hpp"
+
+1449835036 c:\mingw\include\opencv2\calib3d\calib3d.hpp
+	"opencv2/calib3d.hpp"
+
+1449835037 c:\mingw\include\opencv2\ml\ml.hpp
+	"opencv2/ml.hpp"
+
+1449835037 c:\mingw\include\opencv2\highgui\highgui.hpp
+	"opencv2/highgui.hpp"
+
+1455391033 source:c:\users\piotrek\desktop\piotrek\powerdraw\powerdraw\files\debug\debug.cpp
+	"debug.hpp"
+	<iostream>
+	<string>
+
+1455390986 c:\users\piotrek\desktop\piotrek\powerdraw\powerdraw\files\debug\debug.hpp
+	<string>
+
+1455580679 source:c:\users\piotrek\desktop\piotrek\powerdraw\powerdraw\files\mouse and keyboard\keyboard\keyboard.cpp
+	"keyboard.hpp"
+	"../../debug/debug.hpp"
+	<GL/glut.h>
+	"../../opencv/main/main.hpp"
+
+1455404033 c:\users\piotrek\desktop\piotrek\powerdraw\powerdraw\files\mouse and keyboard\keyboard\keyboard.hpp
+
+1455364997 c:\mingw\include\gl\glut.h
+	"freeglut_std.h"
+
+1455539368 c:\users\piotrek\desktop\piotrek\powerdraw\powerdraw\files\opencv\biblioteki.hpp
+	"opencv2/highgui/highgui.hpp"
+	"opencv2/core/core.hpp"
+	"opencv2/imgproc/imgproc.hpp"
+	"../debug/debug.hpp"
+	"opencv2/imgcodecs.hpp"
+	"opencv2/imgproc.hpp"
+	"opencv2/videoio.hpp"
+	<opencv2/highgui.hpp>
+	<opencv2/video.hpp>
+
+1455553191 source:c:\users\piotrek\desktop\piotrek\powerdraw\powerdraw\files\opencv\modifier\modyfikator.cpp
+	"modyfikator.hpp"
+	"../biblioteki.hpp"
+
+1455553640 c:\users\piotrek\desktop\piotrek\powerdraw\powerdraw\files\opencv\modifier\modyfikator.hpp
+	"../biblioteki.hpp"
+
+1455545109 c:\users\piotrek\desktop\piotrek\powerdraw\powerdraw\files\opengl\text\text.hpp
+	<string>
+	<GL/freeglut.h>
+
+1416095565 source:c:\users\piotrek\desktop\piotrek\powerdraw\powerdraw\files\opengl\text\tekst.cpp
+	"tekst.hpp"
+	<vector>
+	<GL/glut.h>
+
+1415748017 c:\users\piotrek\desktop\piotrek\powerdraw\powerdraw\files\opengl\text\tekst.hpp
+	<string>
+
+1455558079 source:c:\users\piotrek\desktop\piotrek\powerdraw\powerdraw\files\opencv\point\point.cpp
+	"point.hpp"
+
+1455558064 c:\users\piotrek\desktop\piotrek\powerdraw\powerdraw\files\opencv\point\point.hpp
+	"../biblioteki.hpp"
+	<iostream>
+
+1455625804 source:c:\users\piotrek\desktop\piotrek\powerdraw\powerdraw\files\opengl\rysowanie\drawing.cpp
+	"drawing.hpp"
+	"../../opencv/biblioteki.hpp"
+	<vector>
+	"../../opencv/point/point.hpp"
+	<iostream>
+
+1455580134 c:\users\piotrek\desktop\piotrek\powerdraw\powerdraw\files\opengl\rysowanie\drawing.hpp
+	<GL/freeglut.h>
+	<vector>
+
